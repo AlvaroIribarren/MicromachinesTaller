@@ -1,5 +1,5 @@
 # MicromachinesTaller
-Trabajo practico final para Taller de Programacion I
+Trabajo practico final para Taller de Programacion I. Se basa en un juego de autos llamado micromachines donde se implementa un servidor con la capacidad de atender multiples clientes a la vez para que puedan jugar online.
 
 ## Links utiles
 SDL:  
